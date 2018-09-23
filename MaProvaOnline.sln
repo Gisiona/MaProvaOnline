@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaProvaOnline.Dominio", "MaProvaOnline.Dominio\MaProvaOnline.Dominio.csproj", "{CA5704CF-D8A9-4CDA-8B43-7A6CE4B1F26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaProvaOnline.Infra", "MaProvaOnline.Infra\MaProvaOnline.Infra.csproj", "{7400F15A-F1B8-4574-ABF5-F393848C91CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA5704CF-D8A9-4CDA-8B43-7A6CE4B1F26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5704CF-D8A9-4CDA-8B43-7A6CE4B1F26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5704CF-D8A9-4CDA-8B43-7A6CE4B1F26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5704CF-D8A9-4CDA-8B43-7A6CE4B1F26D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7400F15A-F1B8-4574-ABF5-F393848C91CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7400F15A-F1B8-4574-ABF5-F393848C91CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7400F15A-F1B8-4574-ABF5-F393848C91CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7400F15A-F1B8-4574-ABF5-F393848C91CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0CFC964-4A6C-4633-ADBF-7F0158DF28D7}
+	EndGlobalSection
+EndGlobal
