@@ -19,10 +19,10 @@ namespace MaProvaOnline.Dominio.Entidades
 
         public EntityBase(Guid hashGuid, int id, DateTime dataCadastro, bool isAtivo)
         {
-            HashGuid = hashGuid;
+            this.HashGuid = hashGuid;
             this.id = id;
-            DataCadastro = dataCadastro;
-            IsAtivo = isAtivo;
+            this.DataCadastro = dataCadastro;
+            this.IsAtivo = isAtivo;
         }
     }
 }

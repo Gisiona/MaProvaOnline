@@ -1,5 +1,6 @@
 ﻿using MaProvaOnline.Dominio.Entidades;
 using MaProvaOnline.Infra.Mapping;
+using System;
 using System.Data.Entity;
 
 namespace MaProvaOnline.Infra.DataContext
@@ -19,8 +20,23 @@ namespace MaProvaOnline.Infra.DataContext
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new PerguntaMap());
+            modelBuilder.Configurations.Add(new RespostaMap());
 
             base.OnModelCreating(modelBuilder);
+        }
+    }
+
+
+
+    public class MaProvaOnlineContextInitializer : DropCreateDatabaseIfModelChanges<MaProvaOnlineContext>
+    {
+        protected override void Seed(MaProvaOnlineContext context)
+        {
+            var pergunta = new Pergunta("Cite 3 pradrões de projetos.", Guid.NewGuid(), 1, DateTime.Now,true);
+            context.Perguntas.Add(pergunta);
+            context.SaveChanges();
+            base.Seed(context);
+
         }
     }
 }

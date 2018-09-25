@@ -6,7 +6,6 @@ C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Domi
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Dominio.pdb
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\bin\Debug\MaProvaOnline.Dominio.dll
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\bin\Debug\MaProvaOnline.Dominio.pdb
-C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Dominio.csprojResolveAssemblyReference.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Dominio.csproj.CoreCompileInputs.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Dominio.dll
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Dominio.pdb

@@ -6,9 +6,9 @@ namespace MaProvaOnline.Dominio.Entidades
     public class PerguntaResposta : EntityBase
     {
         public int PerguntaId { get; set; }
-        public ICollection<Pergunta> Perguntas { get; set; }
+        public  virtual ICollection<Pergunta> Perguntas { get; set; }
         public int RespostaId { get; set; }
-        public ICollection<Resposta> Respostas { get; set; }
+        public virtual ICollection<Resposta> Respostas { get; set; }
 
         public PerguntaResposta()
         {
