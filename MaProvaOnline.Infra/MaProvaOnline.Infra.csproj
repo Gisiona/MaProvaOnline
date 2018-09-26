@@ -50,6 +50,11 @@
     <Compile Include="DataContext\MaProvaOnlineContext.cs" />
     <Compile Include="Mapping\PerguntaMap.cs" />
     <Compile Include="Mapping\RespostaMap.cs" />
+    <Compile Include="Migrations\201809260259245_AltercaoInicial.cs" />
+    <Compile Include="Migrations\201809260259245_AltercaoInicial.Designer.cs">
+      <DependentUpon>201809260259245_AltercaoInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -61,6 +66,11 @@
       <Project>{ca5704cf-d8a9-4cda-8b43-7a6ce4b1f26d}</Project>
       <Name>MaProvaOnline.Dominio</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201809260259245_AltercaoInicial.resx">
+      <DependentUpon>201809260259245_AltercaoInicial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

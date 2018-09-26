@@ -24,3 +24,5 @@ C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProv
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.csproj.CoreCompileInputs.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.dll
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.pdb
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.Migrations.AltercaoInicial.resources
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.csproj.GenerateResource.Cache

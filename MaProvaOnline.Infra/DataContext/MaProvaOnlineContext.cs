@@ -23,6 +23,16 @@ namespace MaProvaOnline.Infra.DataContext
             modelBuilder.Configurations.Add(new RespostaMap());
 
             base.OnModelCreating(modelBuilder);
+
+            /*
+            //Adicionando o relacionamento no OnModelCreating
+            modelBuilder.Entity<Revista>().HasMany(r => r.Edicoes);
+            //Adicionando uma edição   
+            Edicao edicao = new Edicao();
+            edicao.Descricao = "edição 28 - entendendo ORM";
+            revista.Edicoes.Add(edicao);
+            */
+
         }
     }
 
