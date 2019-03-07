@@ -20,9 +20,10 @@ C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\bin\Debug\MaProv
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\bin\Debug\MaProvaOnline.Dominio.pdb
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\bin\Debug\EntityFramework.xml
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\bin\Debug\EntityFramework.SqlServer.xml
-C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.csprojResolveAssemblyReference.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.csproj.CoreCompileInputs.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.dll
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.pdb
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.Migrations.AltercaoInicial.resources
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.csproj.GenerateResource.Cache
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.csprojAssemblyReference.cache
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Infra\obj\Debug\MaProvaOnline.Infra.csproj.CopyComplete

@@ -90,7 +90,15 @@ C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\Microsoft.AI.D
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\Microsoft.AI.WindowsServer.xml
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\Microsoft.AI.Web.xml
-C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\obj\Debug\MaProvaOnline.Api.csprojResolveAssemblyReference.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\obj\Debug\MaProvaOnline.Api.csproj.CoreCompileInputs.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\obj\Debug\MaProvaOnline.Api.dll
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\obj\Debug\MaProvaOnline.Api.pdb
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\MaProvaOnline.Dominio.dll
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\MaProvaOnline.Infra.dll
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\EntityFramework.dll
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\MaProvaOnline.Dominio.pdb
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\MaProvaOnline.Infra.pdb
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\MaProvaOnline.Infra.dll.config
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\bin\EntityFramework.xml
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\obj\Debug\MaProvaOnline.Api.csprojAssemblyReference.cache
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Api\obj\Debug\MaProvaOnline.Api.csproj.CopyComplete

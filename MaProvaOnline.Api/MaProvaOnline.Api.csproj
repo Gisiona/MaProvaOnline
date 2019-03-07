@@ -173,6 +173,16 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MaProvaOnline.Dominio\MaProvaOnline.Dominio.csproj">
+      <Project>{ca5704cf-d8a9-4cda-8b43-7a6ce4b1f26d}</Project>
+      <Name>MaProvaOnline.Dominio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MaProvaOnline.Infra\MaProvaOnline.Infra.csproj">
+      <Project>{7400f15a-f1b8-4574-abf5-f393848c91cc}</Project>
+      <Name>MaProvaOnline.Infra</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

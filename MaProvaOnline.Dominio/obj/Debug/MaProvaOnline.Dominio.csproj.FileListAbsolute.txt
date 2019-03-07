@@ -9,3 +9,4 @@ C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\bin\Debug\MaPr
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Dominio.csproj.CoreCompileInputs.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Dominio.dll
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Dominio.pdb
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Dominio\obj\Debug\MaProvaOnline.Dominio.csprojAssemblyReference.cache

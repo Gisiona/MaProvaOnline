@@ -64,7 +64,8 @@ C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\bin\System.Web.Web
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\bin\System.Web.Webpages.Razor.xml
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\bin\System.Web.Helpers.xml
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\bin\System.Web.Mvc.xml
-C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\obj\Debug\MaProvaOnline.Web.csprojResolveAssemblyReference.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\obj\Debug\MaProvaOnline.Web.csproj.CoreCompileInputs.cache
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\obj\Debug\MaProvaOnline.Web.dll
 C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\obj\Debug\MaProvaOnline.Web.pdb
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\obj\Debug\MaProvaOnline.Web.csprojAssemblyReference.cache
+C:\TFS\GILCOSTA\AvanadeMapfre\MaProvaOnline\MaProvaOnline.Web\obj\Debug\MaProvaOnline.Web.csproj.CopyComplete
